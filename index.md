@@ -11,7 +11,7 @@ You can play the game here: [Clicker Game](https://sicknickeroni.github.io/click
 > - Optimized Some Code
 > - Overhauled UI
 > - Readable Numbers (ex. 1,000,000 turns into: 1mil)
-> - Tweaked Buy/Sell Button
+> - Tweaked Buy/Sell Button  
 > Planned:  
 > - Golden Cookies
 > - Upgrades/Boosters
